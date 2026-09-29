@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+email-validator
+python-jose
+passlib
+bcrypt
+Pillow
+jinja2
+google-generativeai
+google-genai
+python-dotenv
+
